@@ -37,6 +37,17 @@ requirements.txt
 .gitignore
 ```
 
+## Dataset
+
+The dataset used for training is not included in this repository due to its large size (>450MB).
+
+You can download it from:
+
+https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
+
+After downloading, place the dataset file in the project root directory before training the model.
+
+
 ## Installation
 
 Clone the repository:
