@@ -48,6 +48,14 @@ https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource
 After downloading, place the dataset file in the project root directory before training the model.
 
 
+Dataset Name: AIML Dataset  
+Source: Kaggle  
+
+Due to its size (>450MB), the dataset is not included in this repository.  
+Please download it from Kaggle and place it in the project root directory before training.
+
+
+
 ## Installation
 
 Clone the repository:
